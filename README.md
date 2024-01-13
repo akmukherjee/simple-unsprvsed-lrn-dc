@@ -1,5 +1,5 @@
 # Project Exploration: Unsupervised Machine Learning
-A project that delves into unsupervised Machine Learning. This endeavor encompasses the domains of Data Preprocessing, Categorization, and Principal Component Analysis.
+A project that delves into unsupervised Machine Learning. This endeavor encompasses the domains of Data Preprocessing, Categorization, and Principal Component Analysis using Penguins Data on the DataCamp portal.
 
 Project Highlights:
 
